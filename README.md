@@ -120,10 +120,6 @@ To run tests, run the following command:
   rspec
 ```
 
-### Deployment
-
-  - [N/A]
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -142,7 +138,7 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[]**
+- [ ] **[Implement Greetings in different languages]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
